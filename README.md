@@ -1,5 +1,1 @@
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
-    }
-}
+风掠过树梢，碎落一地星光，日子慢慢走，心事轻轻放。不必追赶四季，不必迎合远方，你安安静静地站着，就已是人间最好的风景。
