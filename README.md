@@ -1,9 +1,8 @@
-# kislly-first-project
-# kislly的第一个Github测试项目
-
-## 项目介绍
-这是kislly创建的首个Github测试项目，核心用途是用于熟悉Github代码库的创建、编辑、提交、同步等基础操作，验证Github仓库的基础功能使用流程，帮助快速掌握Github项目管理的入门操作方法。
-
-## 使用方法
-1. 克隆本项目仓库到本地设备，完成项目文件的本地获取
-2. 查看项目内的基础文件，熟悉Github仓库的文件结构与基础操作逻辑
+// 主类，类名必须和文件名一致
+public class HelloWorld {
+    // 程序入口 main 方法
+    public static void main(String[] args) {
+        // 输出 Hello World
+        System.out.println("Hello World!");
+    }
+}
